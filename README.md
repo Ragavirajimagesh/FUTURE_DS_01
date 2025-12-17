@@ -68,6 +68,9 @@ DAX
 
 Amazon E-Commerce Dataset
 
+#dashboard preview
+https://github.com/Ragavirajimagesh/FUTURE_DS_01/blob/main/Screenshot%202025-12-17%20111237.jpg
+
 🔹 How to Use
 
 Download the .pbix file
