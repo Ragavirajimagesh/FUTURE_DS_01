@@ -75,3 +75,9 @@ Download the .pbix file
 Open it in Power BI Desktop
 
 View insights or apply filters for analysis
+
+
+📽 Demo Video
+The project demo video has been uploaded to GitHub under the *Releases* section.
+
+➡ Please navigate to *Releases → v1.0* and download the video to view the full demonstration.
