@@ -85,4 +85,4 @@ The project demo video has been uploaded to GitHub under the *Releases* section.
 
 ➡ Please navigate to *Releases → v1.0* and download the video to view the full demonstration.
 
-Data set used : amazon-dashboard.csv
+Data set used : amazon-dashboard.csv,https://github.com/Ragavirajimagesh/FUTURE_DS_01/blob/main/amazon-dashboard.csv
